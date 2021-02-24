@@ -1,0 +1,14 @@
+scribd+drive(studypal?)- cu sectiuni(materii)
+
+sectiune de comentarii (forum)
+incarcare-downloadare de fisiere(pdf?)
+log in functionabil(baza de conturi-sql?)
+ora curenta?
+mod zi-noapte?-poate dupa o anumita ora?
+poza de profil?
+to dolist-django
+
+home library forum logout todo list
+
+
+comparatii cu udemy coursera moodle? scribd
